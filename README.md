@@ -8,7 +8,7 @@
  <br>🔮 I am a very meticulous person
  <br>🐉 I can use Python  
  <br>🧞‍♀️ I can help you organize and extract valuable information from your data
- <br>🐦‍🔥 I am a very curious and I will check every inch of your software to help you fight bugs!
+ <br>🐦‍🔥 I am very curious and I will check every inch of your software to help you fight bugs!
  
   
   **Some fun facts about me**<p>
