@@ -3,16 +3,19 @@
 ## I am Eduarda Guedes and I am the (Jedi) analyst you are looking for!
 
 🧙🏻‍♀️ I am currently studying Data Science and Quality Analisys! 
+<img src="https://i.ibb.co/XCxTFVy/eu.webp" alt="illustration of a computer" min-width="325px" max-width="325px" width="325px" align="right">
 <p>So, that means:
  <br>🔮 I am a very meticulous person
- <br>🐉 I can use Python 
+ <br>🐉 I can use Python  
  <br>🧞‍♀️ I can help you organize and extract valuable information from your data
  <br>🐦‍🔥 I am a very curious and I will check every inch of your software to help you fight bugs!
+ 
   
   **Some fun facts about me**<p>
   🎙️ I am a voice actress and you can check my work on Netflix Brasil and Discovery Channel<br>
   📜 I have a bachelor's degree in International Relations<br>
   📷 I am a professional photografer
+
 
   ###
 
