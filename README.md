@@ -3,7 +3,7 @@
 ## I am Eduarda Guedes and I am the (Jedi) analyst you are looking for!
 
 🧙🏻‍♀️ I am currently studying Data Science and Quality Analisys! 
-<img src="https://i.ibb.co/XCxTFVy/eu.webp" alt="illustration of a computer" min-width="325px" max-width="325px" width="325px" align="right">
+<img src="https://i.ibb.co/NNhkgHN/b4e46801-fe3f-4dfb-8bb2-db4541af7904-1.webp" alt="illustration of a computer" min-width="325px" max-width="325px" width="325px" align="right">
 <p>So, that means:
  <br>🔮 I am a very meticulous person
  <br>🐉 I can use Python  
